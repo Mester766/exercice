@@ -3,3 +3,5 @@ Liste de courses pour la soirée :
 	- Pates
 	- Sauce Tomate
 	- Viande Hachée
+	- Alcool
+	- Diluants
